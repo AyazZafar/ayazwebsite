@@ -7,8 +7,6 @@ const featureme = [
     title: 'About Me',
     description: (
       <>
-Hello! I am <strong>Ayaz Zafar</strong>. Web Developer, IT Technician and Photographer.<br />
-
 A highly motivated and hardworking individual, who has experience in computing. I work exceptionally well in a team both as a leader and a follower as i believe that great companies are built on teamwork and cooperation. With a keen interest in technology from a young age (the interest has gone better and better as the years went on).
       </>
     ),
