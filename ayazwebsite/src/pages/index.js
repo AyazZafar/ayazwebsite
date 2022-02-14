@@ -24,7 +24,7 @@ function HomepageHeader() {
             />
           </Box>
         </Box>
-        <p className="hero__subtitle">Hello! I am Ayaz Zafar. Web Developer, IT Technician and Photographer.</p>
+        <p className="hero__subtitle">Hello! I am <strong>Ayaz Zafar</strong>. Web Developer, IT Technician and Photographer.</p>
       </div>
     </header>
   );
