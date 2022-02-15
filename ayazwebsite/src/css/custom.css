@@ -30,3 +30,8 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 .hero__subtitle {
   font-size: 1.1rem;
 }
+
+.padding-horiz--md, .padding-right--md {
+  padding-right: 1rem!important;
+  padding-top: 14px;
+}
